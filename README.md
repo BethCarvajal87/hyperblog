@@ -9,4 +9,5 @@ un blog para el curso de git y github de platzi
 * Quede muy agusto con el curso de git
 * Creado por Beth
 * esto lo hago para aprender
+* nunca es tarde para aprender
 para poder ver la clase donde explica de com configurar el readme.md, la puedes ver en el siguiente [**enlace**]("https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/")
